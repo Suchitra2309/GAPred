@@ -5,7 +5,9 @@ This is a web application built to predict the probability of admission for grad
 # Features
 
 1.Users can enter their GRE scores, TOEFL scores, university ranking, etc.
+
 2.The application predicts the likelihood of admission based on the provided inputs.
+
 3.Users can view the predicted admission probability and get insights into their chances of acceptance.
 
 # Data
@@ -13,16 +15,31 @@ This is a web application built to predict the probability of admission for grad
 The dataset contains several parameters which are considered important during the application for Masters Programs.
 The parameters included are :
 1.GRE Scores ( out of 340 )
+
 2.TOEFL Scores ( out of 120 )
+
 3.University Rating ( out of 5 )
+
 4.Statement of Purpose and Letter of Recommendation Strength ( out of 5 )
+
 5.Undergraduate GPA ( out of 10 )
+
 6.Research Experience ( either 0 or 1 )
+
 7.Chance of Admit ( ranging from 0 to 1 )
 
 # Technologies Used
 
 1.Python
+
 2.Streamlit
+
 3.Pandas
+
 4.Scikit-learn
+
+5.NumPy
+
+6.Matplotlib
+
+7.Seaborn
