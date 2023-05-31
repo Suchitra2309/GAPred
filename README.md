@@ -1,4 +1,4 @@
-#Graduate Admission Prediction Web App
+Graduate Admission Prediction Web App
 
 This is a web application built to predict the probability of admission for graduate studies based on various features such as GRE scores, TOEFL scores, university ranking, Statement of purpose and letter of recommendation strength, Undergraduate GPA, Research experience. The application is designed to assist prospective students in estimating their chances of admission to university.
 
